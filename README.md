@@ -1,2 +1,2 @@
 # The-stacc
-Stuff I find interesting
+Contains practice programs and datasets on a wide array of topics.
