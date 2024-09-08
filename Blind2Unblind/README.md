@@ -1,7 +1,7 @@
 # Blind2Unblind
 Course Project (Engineering Design & Development)  
 Semester V, December 2020  
-Skills: Natural Language Processing, Image Processing, Feature Recognition, Web Scraping, Python  
+Skills: Natural Language Processing, Image Processing, Optical Character Recognition, Feature Recognition, Web Scraping, Python  
 
 Blind2Unblind is an audio aid for visually impaired people, capable of performing the following tasks:  
 1) Accepting and processing audio inputs. (Tokenization, Natural Language Processing)  
