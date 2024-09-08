@@ -1,2 +1,2 @@
 # the-stacc
-Contains practice programs and datasets on a wide array of topics.
+Contains practice programs and datasets across a diverse set of scripting domains.
